@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,700');
+
+/*********** Global Styles********/
+
+
+body, html {
+		background-color: lightgray;
+		background-image:url("background.png");
+		font-family: "Maven pro", sans-serif;
+	color: #7d7d7d;
+}
+.profile-photo {
+	width: 300px;
+    height: 100px;
+	position:absolute;
+	left:0;
+	top:0;
+ 
+
+}
+
+#footer  {
+	font-family: "Maven pro", sans-serif;
+	font-weight: 500;
+	color: #7d7d7d;
+	position:relative; 
+	bottom:0;
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+#copyright{
+	text-align:center;
+}
+
+
+#services {
+	margin-top: 150px;
+	text-align: center;
+	font-family: "Maven pro", sans-serif;
+	color: #7d7d7d;
+}
+.contact {
+	font-family: "Maven pro", sans-serif;
+	font-weight: 500;
+	text-decoration: underline;
+	text-align: center;
+	margin-top: 0px;
+}
+
+ul{
+	text-align: center;
+	list-style-type:none;
+	font-family: "Maven pro", sans-serif;
+	color: #7d7d7d;
+	padding: 1px; 
+}
+li{
+	margin: 37px 0;
+  }
+ 
